@@ -709,6 +709,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - CS-Student
 - Currently working on a Neural Network.
   [![github-alt][github-img]](https://github.com/felky)
+  
+### Fon
+
+- Ai engineer
+- love travelling
+  [![github-alt][github-img]](https://github.com/somchanokt)
 
 # G
 
